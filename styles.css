@@ -1,0 +1,17 @@
+.head-section {
+  display: flex;
+}
+
+.my-img {
+  width: 200px;
+  height: 200px;
+
+}
+
+.social-media-buttons {
+  display: flex;
+}
+
+body {
+  background-color: beige;
+}
